@@ -76,7 +76,7 @@ p {
 	transition: all 0.3s ease-in-out;
 }
 .custom-navbar .nav li a:hover {
-  	background: #FFD321;
+  	background: #ffa09f;
   	transition: all 0.3s ease-in-out;
 }
 .custom-navbar .nav > li > a:focus {
@@ -84,14 +84,14 @@ p {
   	outline: none;
 }
 .custom-navbar .nav li.active > a {
-    background-color: #FFD321;
+    background-color: #ffa09f;
 }
 .custom-navbar .navbar-toggle {
     border: none;
     padding-top: 10px;
 }
 .custom-navbar .navbar-toggle .icon-bar {
-    background: #FFD321;
+    background: #ffa09f;
     border-color: transparent;
 }
 @media(min-width:768px){
@@ -149,7 +149,7 @@ p {
 
 /* about section */
 #about .col-md-4 .fa {
-  background: #FFD321;
+  background: #ffa09f;
   border-radius: 50%;
   color: #ffffff;
   font-size: 32px;
@@ -179,7 +179,7 @@ p {
   height: 6px;
 }
 #about .progress .progress-bar-primary {
-  background: #FFD321;
+  background: #ffa09f;
 }
 
 /* portfolio section */
@@ -229,7 +229,7 @@ p {
 .filter-wrapper li .selected,
 .filter-wrapper li a:focus,
 .filter-wrapper li a:hover {
-    background: #FFD321;
+    background: #ffa09f;
     color: #ffffff;
     outline: none;
   }
@@ -353,7 +353,7 @@ footer {
   margin-right: 10px;
 }
 .social-icon li a:hover {
-  background: #FFD321;
+  background: #ffa09f;
 }
 
 /* copyright section */
@@ -370,7 +370,7 @@ footer {
 	color: #fff;
 }
 #copyright a:hover {
-	color: #FFD321;
+	color: #ffa09f;
 	text-decoration: none;
 	transition: all 0.4s ease-in-out;
 }
@@ -387,7 +387,7 @@ footer {
   transition: all 0.4s ease-in-out;
 }
 #copyright .fa:hover {
-  background: #FFD321;
+  background: #ffa09f;
   color: #000;
 }
 
